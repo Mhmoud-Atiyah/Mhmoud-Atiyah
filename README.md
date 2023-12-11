@@ -1,9 +1,9 @@
 ## Study Roadmap (01/12/2023)
 
 ### Network
-[✍] Cisco Certified Network Associate (CCNA)\
-[🎯] Cisco Certified Network Professional (CCNP)\
-[⌛] CompTIA Network+
+[✔] Cisco Certified Network Associate (CCNA)\
+[✍] CompTIA Network+
+[⌛] Cisco Certified Network Professional (CCNP)\
 ### Systems
 [✔] CompTIA A+\
 [✍] Microsoft Certified: Windows Server Hybrid Administrator Associate\
@@ -28,7 +28,7 @@
 ## TOOLS 
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman\
 [✍] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
-[⌛] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
+[🎯] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
 [⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
 [⌛] Testing: Google Test, CppUTest.\
 [⌛] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser.\
