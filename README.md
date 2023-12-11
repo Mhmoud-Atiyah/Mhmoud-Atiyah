@@ -1,4 +1,4 @@
-## Study Roadmap (11/12/2023)
+## Study Roadmap (12/12/2023)
 
 ### Network
 [✔] Cisco Certified Network Associate (CCNA)\
