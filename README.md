@@ -29,7 +29,7 @@
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman\
 [✍] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
 [🎯] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
-[⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
+[✍] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
 [⌛] Testing: Google Test, CppUTest.\
 [⌛] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser.\
 [⌛] ```CMD```: windows server administration windows commands.\
