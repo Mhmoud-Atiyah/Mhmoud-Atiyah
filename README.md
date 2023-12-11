@@ -1,8 +1,8 @@
-## Study Roadmap (01/12/2023)
+## Study Roadmap (11/12/2023)
 
 ### Network
 [✔] Cisco Certified Network Associate (CCNA)\
-[✍] CompTIA Network+
+[✍] CompTIA Network+ \
 [⌛] Cisco Certified Network Professional (CCNP)\
 ### Systems
 [✔] CompTIA A+\
