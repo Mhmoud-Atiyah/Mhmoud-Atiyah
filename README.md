@@ -27,11 +27,11 @@
  - CompTIA Advanced Security Practitioner (CASP+)
 ## TOOLS 
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman\
-[✍] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
-[🎯] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
-[✍] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
+[✍] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
+[🎯] ```CMD```: windows server administration windows commands.\
+[⌛] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
+[⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
 [⌛] Testing: Google Test, CppUTest.\
 [⌛] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser.\
-[⌛] ```CMD```: windows server administration windows commands.\
 [⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman.\
 [⌛] ```Valgrind```: "Valgrind 3.3 - Advanced Debugging and Profiling for GNU/Linux Applications" by J. Seward, N. Nethercote.
