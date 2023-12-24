@@ -16,7 +16,7 @@
 [✍] AWS Certified Solutions Architect\
 [⌛] Microsoft Certified: Azure Administrator Associate
 ### virtual
-[✍] VMware Certified Technical Associate - Data Center Virtualization\
+[⌛] VMware Certified Technical Associate - Data Center Virtualization\
 [⌛] Microsoft Certified: Azure Virtual Desktop Specialty
 ### Security
 [⌛] CompTIA Security+ \
@@ -28,8 +28,8 @@
 ## TOOLS 
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman\
 [✍] ```Shell```: "The Linux Command Line" by William E. Shotts Jr.\
+[✍] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
 [🎯] ```CMD```: windows server administration windows commands.\
-[⌛] ```Git```: "Pro Git" by Scott Chacon and Ben Straub\
 [⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard.\
 [⌛] Testing: Google Test, CppUTest.\
 [⌛] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser.\
