@@ -4,14 +4,19 @@
 [✔] Cisco Certified Network Associate (CCNA)\
 [✍] CompTIA Network+ \
 [⌛] Cisco Certified Network Professional (CCNP)\
+[⌛] Comperhansive Understanding of TCP_IP Stack "Books and Code"\
+
 ### Systems
 [✔] CompTIA A+\
 [✍] Microsoft Certified: Windows Server Hybrid Administrator Associate\
+[⌛] Systems Theory
 [⌛] CompTIA Server+
+
 ### Linux
 [✍] CompTIA Linux+ \
 [⌛] Red Hat Certified System Administrator (RHCSA)\
 [⌛] Red Hat Certified Engineer (RHCE)
+
 ### Cloud
 [✍] AWS Certified Solutions Architect\
 [⌛] Microsoft Certified: Azure Administrator Associate
