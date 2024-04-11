@@ -50,12 +50,28 @@ Draw A Graph or Take a Text Notes As Dump of All study
 [⌛] Certified Information Systems Security Professional (CISSP)\
 [⌛] CompTIA Advanced Security Practitioner (CASP+)
 
+### Programming
+```HTML
+Study Each Path Using Rust
+```
+> **Code the Linux API**
+
+> **Data Structures and Algorithms** 
+
+[✍] Introduction To Algorithms  Spring 2020 (Course)\
+[⌛] Introduction to Algorithms 4Th Edition (Book)
+
+> **Understanding the Basics Of Rust**
+
+1. [Rust Roadmap](https://roadmap.sh/rust)
+
+> **Advanced Topics**
+
 ## TOOLS 
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman \
 [✍] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser. \
 [🎯] ```Python```: Use Python For Scripting on different Platforms\
 [⌛] ```CMD```: windows server administration windows commands. \
-[⌛] ```Git```: "Pro Git" by Scott Chacon and Ben Straub \
 [⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard. \
 [⌛] Testing: Google Test, CppUTest. \
 [⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman. \
