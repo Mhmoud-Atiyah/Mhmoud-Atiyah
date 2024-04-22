@@ -7,6 +7,14 @@
 [✍] CompTIA Network+ \
 [⌛] Cisco Certified Network Professional (CCNP)
 
+> **Theory and Code**
+1. Computer Networking A Top Down Approach
+2. TCP IP Illustrated Volume 1
+3. TCP_IP protocol suite by Forouzan McGraw
+4. TCP IP Illustrated Volume 2
+```json
+Implement Each Protocol For More Understanding
+```
 ### Systems
 > 🪟 **Windows Cert**
 
