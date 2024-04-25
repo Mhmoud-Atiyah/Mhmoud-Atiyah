@@ -27,8 +27,7 @@ Implement Each Protocol For More Understanding
 
 [✍] Red Hat Certified System Administrator (RHCSA)\
 [⌛] Red Hat Certified Engineer (RHCE)\
-[✍] CompTIA Linux+ \
-[⌛] CompTIA Server+
+[✍] CompTIA Linux+
 
 > **Theory and Code**
  1. Operating System Concepts
