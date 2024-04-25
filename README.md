@@ -1,4 +1,4 @@
-## Study Roadmap (29/02/2025)
+## Study Roadmap (24/04/2024)
 
 ### Networking
 > 📜 **Certificates**
@@ -32,7 +32,6 @@ Implement Each Protocol For More Understanding
 > **Theory and Code**
  1. Operating System Concepts
  2. Understanding the Linux Kernel ```Use Online Sources For Modern Versions```
- 3. Driver implementer's API guide ```Online Verison of Linux Driver Doc```
 ```css
 Draw A Graph or Take a Text Notes As Dump of All study
 ```
@@ -45,25 +44,7 @@ Draw A Graph or Take a Text Notes As Dump of All study
 ### Security
 [⌛] CompTIA Security+ \
 [⌛] Certified Ethical Hacker (CEH)\
-[⌛] Certified Information Systems Security Professional (CISSP)\
-[⌛] CompTIA Advanced Security Practitioner (CASP+)
-
-### Programming
-```HTML
-Study Each Path Using Rust
-```
-> **Code the Linux API**
-
-> **Data Structures and Algorithms** 
-
-[✍] Introduction To Algorithms  Spring 2020 (Course)\
-[⌛] Introduction to Algorithms 4Th Edition (Book)
-
-> **Understanding the Basics Of Rust**
-
-1. [Rust Roadmap](https://roadmap.sh/rust)
-
-> **Advanced Topics**
+[⌛] Certified Information Systems Security Professional (CISSP)
 
 ## TOOLS 
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman \
@@ -72,5 +53,4 @@ Study Each Path Using Rust
 [⌛] ```CMD```: windows server administration windows commands. \
 [⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard. \
 [⌛] Testing: Google Test, CppUTest. \
-[⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman. \
-[⌛] ```Valgrind```: "Valgrind 3.3 - Advanced Debugging and Profiling for GNU/Linux Applications" by J. Seward, N. Nethercote.
+[⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman.
