@@ -4,14 +4,17 @@
 > 📜 **Certificates**
 
 [✔] Cisco Certified Network Associate (CCNA)\
-[✍] CompTIA Network+ \
-[⌛] Cisco Certified Network Professional (CCNP)
+[✍] CompTIA Network+
 
 > **Theory and Code**
 1. Computer Networking A Top Down Approach
-2. TCP IP Illustrated Volume 1
-3. TCP_IP protocol suite by Forouzan McGraw
-4. TCP IP Illustrated Volume 2
+2. TCP_IP protocol suite by Forouzan McGraw
+4. Linux Network Administrator's Guide
+5. Linux Networking Cookbook
+3. TCP IP Illustrated Volume 1
+7. Understanding Linux Network Internals
+6. TCP IP Illustrated Volume 2
+
 ```json
 Implement Each Protocol For More Understanding
 ```
@@ -20,13 +23,11 @@ Implement Each Protocol For More Understanding
 
 [✔] CompTIA A+\
 [✍] Microsoft Certified: Windows Server Hybrid Administrator Associate\
-[⌛] Microsoft Certified: Azure Administrator Associate\
-[⌛] Microsoft Certified: Azure Solutions Architect Expert
+[⌛] Microsoft Certified: Azure Administrator Associate
 
 > 🐧 **Linux Cert**
 
-[✍] Red Hat Certified System Administrator (RHCSA)\
-[⌛] Red Hat Certified Engineer (RHCE)\
+[✍] Red Hat Enterprise Linux (RHEL)\
 [✍] CompTIA Linux+
 
 > **Theory and Code**
@@ -50,5 +51,6 @@ Draw A Graph or Take a Text Notes As Dump of All study
 [✔]```GDB```: "Debugging with GDB: The GNU Source-Level Debugger" by Richard M. Stallman \
 [✍] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser. \
 [🎯] ```Python```: Use Python For Scripting on different Platforms\
-[⌛] ```CMD```: windows server administration windows commands. \
-[⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman.
+[⌛] ```Bash```: linux command line and shell scripting bible \
+[⌛] ```Git```: Pro git book \
+[⌛] ```CMD```: windows server administration windows commands.
