@@ -51,6 +51,4 @@ Draw A Graph or Take a Text Notes As Dump of All study
 [✍] ```Ansible```: "Ansible: Up and Running" by Lorin Hochstein and René Moser. \
 [🎯] ```Python```: Use Python For Scripting on different Platforms\
 [⌛] ```CMD```: windows server administration windows commands. \
-[⌛] ```CMake```: "Mastering CMake" by Ken Martin, Bill Hoffman, and Robert Maynard. \
-[⌛] Testing: Google Test, CppUTest. \
 [⌛] ```GCC```: "GNU Make: A Program for Directed Compilation" by Richard M. Stallman.
