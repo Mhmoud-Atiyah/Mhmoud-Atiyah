@@ -13,8 +13,8 @@
   </a>
 </p>
 <h3>Hobbies:<h5>[It's Real me]</h5></h3>
-<p align="left">🟡 Reading Geek with more than 250 books in 4 years [<a href="https://www.goodreads.com/review/list/77745868-mhmoud-atiyah" target="_blank">goodreads</a>]</p>
-<p align="left">🟡 Football enthusiast with a strong passion for Zamalek and Borussia Dortmund (BVB).</p>
+<p align="left">🟡 Reading Geek [<a href="https://www.goodreads.com/review/list/77745868-mhmoud-atiyah" target="_blank">goodreads</a>]</p>
+<p align="left">🟡 Football enthusiast with a strong passion for Borussia Dortmund (BVB).</p>
 <p align="left">🟡 Music aficionado with big love for Schubert, Boccherini and Rageh Daoud.</p>
 
 
