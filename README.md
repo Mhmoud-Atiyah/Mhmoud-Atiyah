@@ -4,7 +4,7 @@
   
 <p>🟡 Site Reliability Engineer at SDN </p>
 <p>🟡 Head Developer at IQraa Platform </p>
-<p>🟡 Pyramido-org CEO <a href="https://github.com/pyramido-org" target="_blank">[Go]</a></p>
+<p>🟡 Pyramido-org <a href="https://github.com/pyramido-org" target="_blank">[Go]</a></p>
 <br>
 <h3>Tools:<h5>[I've been through Many more]</h5></h3>
 <p align="center">
