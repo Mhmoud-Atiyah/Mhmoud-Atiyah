@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mhmoud Atiyah</h1>
-<h5 align="center">Linux Son-in-law</h5>
+<h5 align="center">Linux Son</h5>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZkMHFieGRuamczd2MweHlpZ2c5cWcwZ3ZqNzJxOXRyNDRvbTVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp" width=150px align="right"/>
   
 <p>🟡 Site Reliability Engineer at SDN </p>
