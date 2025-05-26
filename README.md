@@ -1,35 +1,34 @@
-<h1 align="center">Hi, I'm Mhmoud Atiyah</h1>
-<h5 align="center">Linux Son</h5>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZkMHFieGRuamczd2MweHlpZ2c5cWcwZ3ZqNzJxOXRyNDRvbTVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp" width=150px align="right"/>
-  
-<p>🟡 Site Reliability Engineer at SDN </p>
-<p>🟡 Head Developer at IQraa Platform </p>
-<p>🟡 Pyramido-org <a href="https://github.com/pyramido-org" target="_blank">[Go]</a></p>
-<br>
-<h3>Tools:<h5>[I've been through Many more]</h5></h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mhmoudatiyah/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,bsd,windows,powershell,c,cpp,cmake,gtk,regex,arduino,py,html,css,bootstrap,js,nodejs,npm,ts,jquery,react,electron,express,mysql,postgres,sqlite,cassandra,aws,azure,jenkins,ansible,docker,nginx,git,gitlab,md,elasticsearch,postman,devto,clion,visualstudio,vscode,eclipse,linkedin,stackoverflow,gmail,obsidian,ps" />
-  </a>
-</p>
-<h3>Hobbies:<h5>[It's Real me]</h5></h3>
-<p align="left">🟡 Reading Geek [<a href="https://www.goodreads.com/review/list/77745868-mhmoud-atiyah" target="_blank">goodreads</a>]</p>
-<p align="left">🟡 Football enthusiast with a strong passion for Borussia Dortmund (BVB).</p>
-<p align="left">🟡 Music aficionado with big love for Schubert, Boccherini and Rageh Daoud.</p>
+# 👋 Hi, I'm Mhmoud E. Atiyah
+
+**Site Reliability Engineer @ SDN**
+**Head Developer @ IQraa Platform**
+**Open Source Enthusiast | Linux Advocate | DevOps Engineer**
+
+Software engineer with hands-on experience in C++, Node.js, Linux systems, and backend development. Passionate about low-level systems, protocol design, and secure, scalable architectures. Skilled in API design, database modeling, and performance optimization for real-world applications.
 
 
-<h3 align="left">Connect with me:<h5>[ Not a Social Media Man but.... ]</h5></h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/mhmoudatiyah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmoudatiyah" height="30" width="40" /></a>
-<a href="mailto:mahmoudaboattia1999@gmail.com" target="_blank">
-  <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="mhmoudatiyah" height="30" width="30" />
-</a>
- <a href="https://twitter.com/EbnAtiyah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="EbnAtiyah" height="30" width="40" /></a>
- <a href="https://wa.me/+20114764334" target="_blank">
-  <img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mhmoudatiyah" height="30" width="30" />
-</a>
+## 🔧 Technical Skills
 
-</p>
+* **Programming Languages**: Comfortable with various programming languages and frameworks.
+* **Linux Systems**: Extensive experience with Linux-based systems and shell scripting.
+* **DevOps & SRE**: Proficient in CI/CD pipelines, infrastructure as code, and system reliability engineering.
 
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mhmoud-Atiyah&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+---
+
+## 🚀 Projects & Contributions
+
+* **IQraa Platform**: Leading the development of the IQraa Platform, focusing on scalable and reliable solutions.
+* **Open Source Contributions**: Active contributor to open-source projects, emphasizing collaboration and innovation.
+* **Pyramido-org**: Involved in projects under the Pyramido organization, promoting open-source initiatives.
+
+## 📫 Connect with Me
+
+* **Gmail**: [Mhmoud-Atiyah](mhmoudebrahiematiyah@gmail.com)
+* **GitHub**: [Mhmoud-Atiyah](https://github.com/Mhmoud-Atiyah)
+* **LinkedIn**: [Mhmoud-Atiyah]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mhmoudatiyah/))
+* **Twitter**: [@Ebnattia](https://twitter.com/Ebnattia)
+* **WhatsApp**: [Contact Me](https://wa.me/+201147643343)
+
+---
+
+Feel free to reach out for collaborations, discussions, or any inquiries related to DevOps, open-source projects, or technology in general.
