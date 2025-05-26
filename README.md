@@ -23,9 +23,9 @@ Software engineer with hands-on experience in C++, Node.js, Linux systems, and b
 
 ## 📫 Connect with Me
 
-* **Gmail**: [Mhmoud-Atiyah](mhmoudebrahiematiyah@gmail.com)
+* **Gmail**: [Mhmoud-Atiyah](mailto:mhmoudebrahiematiyah@gmail.com)
 * **GitHub**: [Mhmoud-Atiyah](https://github.com/Mhmoud-Atiyah)
-* **LinkedIn**: [Mhmoud-Atiyah]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mhmoudatiyah/))
+* **LinkedIn**: [Mhmoud-Atiyah](https://www.linkedin.com/in/mhmoudatiyah/)
 * **Twitter**: [@Ebnattia](https://twitter.com/Ebnattia)
 * **WhatsApp**: [Contact Me](https://wa.me/+201147643343)
 
