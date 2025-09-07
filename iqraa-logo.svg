@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="IQraa logo">
+  <defs>
+    <linearGradient id="logoG" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00b4ff"/>
+      <stop offset="100%" stop-color="#0066cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="14" fill="url(#logoG)"/>
+  <g transform="translate(12,12)" fill="#fff">
+    <path d="M36 6 C24 6, 12 14, 6 22 L42 22 L78 22 C72 14, 60 6, 48 6 C44 6, 40 6, 36 6 Z" opacity="0.98"/>
+    <path d="M6 22 L6 58 C12 50, 24 58, 36 58 L36 22 Z" opacity="0.96"/>
+    <path d="M78 22 L78 58 C72 50, 60 58, 48 58 L48 22 Z" opacity="0.96"/>
+    <circle cx="36" cy="36" r="3.2" fill="#004a70" opacity="0.9"/>
+  </g>
+</svg>

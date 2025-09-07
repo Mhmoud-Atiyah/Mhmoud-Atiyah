@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="IQraa - Hub for books and knowledge">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b2540"/>
+      <stop offset="100%" stop-color="#053b2b"/>
+    </linearGradient>
+    <linearGradient id="bookGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#e6f7ff" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="12" fill="url(#bgGrad)"/>
+  <g opacity="0.06" fill="#fff">
+    <rect x="60" y="36" width="1080" height="228" rx="10"/>
+  </g>
+  <g transform="translate(80,50)">
+    <path d="M80 20 C40 20, 10 60, 10 120 C10 180, 40 220, 80 220 L260 220 L260 20 Z"
+          fill="url(#bookGrad)" stroke="#cfeaf8" stroke-width="1.6" />
+    <path d="M320 20 C360 20, 390 60, 390 120 C390 180, 360 220, 320 220 L140 220 L140 20 Z"
+          fill="url(#bookGrad)" stroke="#cfeaf8" stroke-width="1.6" />
+    <rect x="140" y="20" width="40" height="200" rx="6" fill="#f3fbff" opacity="0.95"/>
+    <g stroke="#bfe4ff" stroke-width="1" opacity="0.7">
+      <path d="M32 60 L230 60"/>
+      <path d="M32 86 L230 86"/>
+      <path d="M32 112 L230 112"/>
+      <path d="M32 138 L230 138"/>
+      <path d="M470 60 L260 60"/>
+      <path d="M470 86 L260 86"/>
+      <path d="M470 112 L260 112"/>
+      <path d="M470 138 L260 138"/>
+    </g>
+    <path d="M200 12 L220 12 L220 72 L200 60 Z" fill="#ffcf6b" opacity="0.96" transform="translate(-20,0)"/>
+  </g>
+  <g transform="translate(520,60)" font-family="Inter, Roboto, Arial, sans-serif">
+    <text x="0" y="42" font-size="44" fill="#e6fbff" font-weight="700">IQraa</text>
+    <text x="0" y="78" font-size="16" fill="#bfe8ff">Hub for Books & Knowledge — Read · Create · Share · Connect</text>
+    <g transform="translate(0,110)">
+      <rect x="-6" y="-8" rx="10" width="450" height="56" fill="#062d40" opacity="0.18"/>
+      <text x="12" y="28" font-size="14" fill="#d7f6ff" opacity="0.95">Open • Secure • Scalable • Community-driven</text>
+    </g>
+  </g>
+  <g transform="translate(1020,28)" opacity="0.9">
+    <circle cx="40" cy="40" r="28" fill="#0fb6ff" opacity="0.14"/>
+    <circle cx="90" cy="80" r="18" fill="#8ef0c1" opacity="0.08"/>
+  </g>
+</svg>
